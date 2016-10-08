@@ -2,5 +2,6 @@
 {
     "files.exclude": {
         //"**/*.js": { "when": "$(basename).ts" }
-    }
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\powershell.exe"
 }

@@ -3,9 +3,8 @@
 {
     "compilerOptions": {
       "sourceMap": false,
-      "typeRoots": [
-          "./_typings"
-      ]
+      "removeComments": true,
+      "typeRoots": ["./typings"]
     },
     "compileOnSave": true
 }

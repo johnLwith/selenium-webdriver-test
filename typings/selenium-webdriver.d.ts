@@ -5077,7 +5077,7 @@ declare namespace webdriver {
         thenFinally<R>(callback: () => any): webdriver.promise.Promise<R>;
     }
 
-    namespace By {
+   export namespace By {
         /**
          * Locates elements that have a specific class name. The returned locator
          * is equivalent to searching for elements with the CSS selector ".clazz".
