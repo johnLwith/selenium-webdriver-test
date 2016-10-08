@@ -1,0 +1,11 @@
+// https://code.visualstudio.com/Docs/languages/typescript
+// https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+{
+    "compilerOptions": {
+      "sourceMap": false,
+      "typeRoots": [
+          "./_typings"
+      ]
+    },
+    "compileOnSave": true
+}
